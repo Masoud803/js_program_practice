@@ -16,11 +16,11 @@
 // var userBalance = +prompt("Enter your balance")
 
 // if(userBalance >= 50){
-//     alert("Welcome To ZU Peshawar")
+//     console.log("Welcome To ZU Peshawar")
 // }
 
 // if(userBalance < 50){
-//     alert("Please recharge your balance")
+//     console.log("Please recharge your balance")
 // }
 
 // 03 Traffic Light System-------------------
@@ -28,16 +28,16 @@
 // var input = prompt("Please Enter Any Traffic Light Color In Lower Case")
 
 // if(input == "red"){
-//     alert("Stop")
+//     console.log("Stop")
 // }
 // else if(input == "yellow"){
-//     alert("Get Ready")
+//     console.log("Get Ready")
 // }
 // else if(input == "green"){
-//     alert("Go")
+//     console.log("Go")
 // }
 // else{
-//     alert("Invalid Color")
+//     console.log("Invalid Color")
 // }
 
 // 04 Shopping Discount----------
@@ -45,13 +45,13 @@
 // var amount = +prompt("Enter Shopping Amount")
 
 // if(amount <= 4999){
-//     alert("You Got 10% Discount")
+//     console.log("You Got 10% Discount")
 // }
 // else if(amount <= 9999){
-//     alert("You Got 25% Discount")
+//     console.log("You Got 25% Discount")
 // }
 // else if(amount >= 10000){
-//     alert("You Got 50% Discount")
+//     console.log("You Got 50% Discount")
 // }
 
 // 05 ATM------------
@@ -94,7 +94,7 @@
 // 08 Burger----------
 
 // var burgerPrice = 350
-// var pocketMoney = +prompt("Paise Kitne Hain Bhai")
+// var pocketMoney = +prompt("How Much Money Do You Have?")
 
 // if(pocketMoney >= burgerPrice){
 //     console.log("Your Burger Is Getting Ready")
